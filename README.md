@@ -41,11 +41,11 @@ De website die ik ga namaken is https://www.dodie.co
 
 #### Screenshot(s) van de eerste pagina (small screen): 
 homepagina 
-<img src="images/dodieHomeM.png" width="375px" alt="homepagina dodie.co">
+<img src="images/dodieHomeM.png" width="200px" alt="homepagina dodie.co">
 
 #### Screenshot(s) van de tweede pagina (small screen):
 merchandise verkoop pagina 
-<img src="images/dodieMerchM.png" width="375px" alt="merchandise pagina dodie.co">
+<img src="images/dodieMerchM.png" width="200px" alt="merchandise pagina dodie.co">
  
 </details>
 
