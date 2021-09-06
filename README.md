@@ -20,7 +20,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 Aniek Mulders
 
 #### Je startniveau:
-rood
+blauw
 
 #### Je focus:
 surface plane
