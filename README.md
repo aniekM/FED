@@ -36,7 +36,7 @@ surface plane
 <summary>uitwerken voor kick-off werkgroep</summary>
 
 ### Je opdracht:
-Ik wil een website van een kleding winkel gaan namaken. Veel kleding webshops zien er hetzefde uit en bevatten dezelfde elementen, wat handig is aangezien ik nog niet zeker week welke website ik wil gaan namaken. 
+De website die ik ga namaken is https://www.dodie.co
 
 #### Screenshot(s) van de eerste pagina (small screen): 
 hier de naam van de pagina  
