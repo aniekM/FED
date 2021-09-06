@@ -39,12 +39,12 @@ surface plane
 De website die ik ga namaken is https://www.dodie.co
 
 #### Screenshot(s) van de eerste pagina (small screen): 
-hier de naam van de pagina  
-<img src="images/dummy-plaatje.jpg" width="375px" alt="omschrijving van de pagina">
+homepagina 
+<img src="images/dodieHomeM.png" width="375px" alt="homepagina dodie.co">
 
 #### Screenshot(s) van de tweede pagina (small screen):
-hier de naam van de pagina  
-<img src="images/dummy-plaatje.jpg" width="375px" alt="omschrijving van de pagina">
+merchandise verkoop pagina 
+<img src="images/dodieMerchM.png" width="375px" alt="merchandise pagina dodie.co">
  
 </details>
 
