@@ -3,3 +3,58 @@
   box-sizing:border-box;  
 }
 
+body{
+  width: 100vw;
+  background-image: url('../images/headerbg.jpeg');
+  background-repeat: no-repeat;
+  background-color: #E5E3D5;
+}
+
+
+section.top{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+
+}
+.top img{
+  max-width: 80%;
+  margin: 2em;
+}
+
+ul{
+  text-decoration: none;
+}
+ul{
+  display: flex;
+  justify-content: space-between;
+  flex-wrap:wrap;
+  flex-direction: row;
+  list-style:none;
+  align-items: stretch; 
+  width: 100%;
+  line-height: 1.5em;
+  padding: .5em;
+}
+.merch{
+  display:flex;
+  grid-gap:2em;
+  margin:0; padding:0;
+  list-style:none;
+  align-items: stretch; 
+  justify-content: space-evenly;
+  width: 100%;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+li { 
+  width: 40%;
+}
+.merch img{
+  width: 100%;
+}
+
+h2{
+  text-align: center;
+}
