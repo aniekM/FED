@@ -97,11 +97,9 @@ samen met je groepje opstellen
 
 ### Verslag van meeting
 hier na afloop snel de uitkomsten van de meeting vastleggen
-
-- punt 1
-- punt 2
-- nog een punt
-- ...
+Op mijn vragen:
+- Het details element is erg slim bedacht, maar werkt niet als je de website responsive wil maken. Als je de website responsive wil maken kun je beter Javascript gebruiken.
+- Voor het veranderen naar meerdere kolommen moeten "Media Queries" gebruikt worden in de CSS.
 
 </details>
 
