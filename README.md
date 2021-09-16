@@ -90,7 +90,7 @@ samen met je groepje opstellen
 
 | Aniek      | Yen          | Salentino    | student 4        |
 | ---            | ---                | ---          | ---              |
-| Kun je van een details element een hamburger menu maken| Is nog niet begonnen, hoe ga ik dit aanpakken             | en ik dit    | en dan ik dat    |
+| Kun je van een details element een hamburger menu maken| Is nog niet begonnen, hoe ga ik dit aanpakken             | Meer informatie over breakpoints    | en dan ik dat    |
 | Hoe krijg je van een kolom 2 kolommen | dit als er tijd is | nog een punt | dit wil ik zeker |
 | ...            | ...                | ...          | ...              |
 
