@@ -58,8 +58,9 @@ merchandise verkoop pagina
 <details>
 <summary>uitwerken na afloop 2e werkgroep</summary>
 
-### de hele pagina: 
-<img src="images/dummy-plaatje.jpg" width="375px" alt="breakdown van de hele pagina">
+### de hele pagina:
+ Hieronder de breakdownschets van de homepagina. De breakdownschetsen van de andere pagina's moet ik nog verder afmaken.
+<img src="images/breakdownHome.png" width="150px" alt="breakdown van de hele pagina">
 
 ### dynamisch deel (bijv menu): 
 <img src="images/dummy-plaatje.jpg" width="375px" alt="breakdown van een dynamisch deel">
@@ -81,7 +82,7 @@ merchandise verkoop pagina
 ### Stand van zaken
 Ik ben redelijk ver met de website op een klein scherm, bijna alle elementen staan op de juiste positie. Op dit moment moet ik nog verder met het stylen van de typografie en de kleuren. De volgende stap wordt kijken of ik de site responsive kan maken. 
 <img src="images/voortgangLanding.png" width="150px" alt="voortgang landing scherm">
-<img src="images/voortgangMerchM.png" width="150px" alt="voorgang merch lijst">
+<img src="images/voortgangMerch.png" width="150px" alt="voorgang merch lijst">
 
 
 ### Agenda voor meeting
