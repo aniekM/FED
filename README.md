@@ -80,7 +80,8 @@ merchandise verkoop pagina
 
 ### Stand van zaken
 Ik ben redelijk ver met de website op een klein scherm, bijna alle elementen staan op de juiste positie. Op dit moment moet ik nog verder met het stylen van de typografie en de kleuren. De volgende stap wordt kijken of ik de site responsive kan maken. 
-
+<img src="images/voortgangLanding.png" width="150px" alt="voortgang landing scherm">
+<img src="images/voortgangMerchM.png" width="150px" alt="voorgang merch lijst">
 
 
 ### Agenda voor meeting
