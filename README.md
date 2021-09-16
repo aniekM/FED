@@ -79,16 +79,17 @@ merchandise verkoop pagina
 <summary>uitwerken voor 1e voortgang</summary>
 
 ### Stand van zaken
-hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
+Ik ben redelijk ver met de website op een klein scherm, bijna alle elementen staan op de juiste positie. Op dit moment moet ik nog verder met het stylen van de typografie en de kleuren. De volgende stap wordt kijken of ik de site responsive kan maken. 
+
 
 
 ### Agenda voor meeting
 samen met je groepje opstellen
 
-| student 1      | student 2          | student 3    | student 4        |
+| Aniek      | Yen          | Salentino    | student 4        |
 | ---            | ---                | ---          | ---              |
-| dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-| en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
+| Kun je van een details element een hamburger menu maken| Is nog niet begonnen, hoe ga ik dit aanpakken             | en ik dit    | en dan ik dat    |
+| Hoe krijg je van een kolom 2 kolommen | dit als er tijd is | nog een punt | dit wil ik zeker |
 | ...            | ...                | ...          | ...              |
 
 
