@@ -2,31 +2,65 @@
 *, *::after, *::before {
   box-sizing:border-box;  
 }
+@font-face {
+  font-family: Marion;
+  src: url(font/MarionRegular.ttf);
+}
 
-body{
+:root {
+  --bgColor:#E5E3D5;
+  --accentText: #8C918A;
+  --mainColor: #313F3F;
+  --headerColor: #FFFDFC;
+}
+
+  /*********/
+ /*  HOME */
+/*********/
+
+body#home{
   width: 100vw;
   background-image: url('../images/headerbg.jpeg');
   background-repeat: no-repeat;
-  background-color: #E5E3D5;
+  background-color: var(--bgColor);
+  font-family: Marion;
+  color: var(--mainColor);
+  overflow-x: hidden;
 }
 
+#home section ul p{
+  color: var(--accentText);
+}
 
-section.top{
+#home section ul p:first-of-type{
+  font-size: 1.2em;
+}
+
+#home section ul p:last-of-type{
+  font-size: .7em;
+}
+
+#home section.top{
   display: flex;
   justify-content: center;
   align-items: center;
   flex-direction: column;
 
 }
-.top img{
+#home .top img{
   max-width: 80%;
-  margin: 2em;
+  margin: 1em;
 }
 
-ul{
+#home nav img{
+  max-height: 2em;
+  margin: 10px;
+}
+
+#home ul{
   text-decoration: none;
 }
-ul{
+#home ul{
   display: flex;
   justify-content: space-between;
   flex-wrap:wrap;
@@ -37,7 +71,7 @@ ul{
   line-height: 1.5em;
   padding: .5em;
 }
-.merch{
+#home .merch{
   display:flex;
   grid-gap:2em;
   margin:0; padding:0;
@@ -48,13 +82,44 @@ ul{
   flex-direction: row;
   flex-wrap: wrap;
 }
-li { 
+#home li { 
   width: 40%;
 }
-.merch img{
+#home .merch img{
   width: 100%;
 }
 
-h2{
+#home section{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+#home h2{
   text-align: center;
+  color: var(--headerColor);
+  background-color: var(--mainColor);
+  padding: .2em 1em .2em 1em;
+  display: inline-block;
+  font-size: 2em;
+  
+}
+
+  /*********/
+ /*  TOUR */
+/*********/
+
+body#tour{
+  background-color: var(--bgColor);
+}
+
+#tour article a{
+  border: 1px solid var(--mainColor);
+  padding: .75em;
+  color: var(--mainColor);
+  text-decoration: none;
+}
+
+#tour article p{
+  color: var(--accentText);
 }
