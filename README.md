@@ -147,29 +147,37 @@ hier na afloop snel de uitkomsten van de meeting vastleggen
 
 ### Bevindingen
 Lijst met je bevindingen die in de test naar voren kwamen:
+ 
+ Tijdens de les hebben wij getest hoe toegankelijk de website is. Tijdens deze les heb ik vooral getest met de verschillende brillen. Ook hebben wij een screenreader getest.
 
-#### Titel eerste bevinding
-Hier korte omschrijving (met indien nodig een afbeelding)
-
-Hier een omschrijving van hoe het opgelost kan worden (met indien nodig een afbeelding)
-
-
-#### Titel tweede bevinding. 
-Hier korte omschrijving (met indien nodig een afbeelding)
-
-Hier een omschrijving van hoe het opgelost kan worden (met indien nodig een afbeelding)
+#### Screenreader
+ Ten eerste vond ik een screenreader gebruiken erg irritant. Als je iets met je muis beweegt herhaalt de screenreader steeds waar je muis op staat. Ook is het irritant dat de screenreader alle semantische elementen opnoemt, tenzij je dit uitzet in instellingen. Ook sloeg de screenreader het icoontje van het hamburger menu over
+ 
+ OPLOSSING
 
 
-#### Titel volgende bevinding. 
-Hier korte omschrijving (met indien nodig een afbeelding)
+#### Peripheral field loss
+Met deze bril bleek het dat de teksten in een kleine fontsize en licht grijze kleur erg slecht leesbaar zijn. Ook waren de elementen die dicht op de randen van het scherm staan erg lastig te vinden. 
 
-Hier een omschrijving van hoe het opgelost kan worden (met indien nodig een afbeelding)
+Deze fouten zijn makkelijk op te lossen door de kleur van de tekst aan te passen.
 
 
-#### Titel nog een bevinding. 
-Hier korte omschrijving (met indien nodig een afbeelding)
+#### Blur / Glare 
+Met deze bril waren eigenlijk alle elementen op de site erg onduidelijk. Ook was het heel lastig om te zien waar op de site je bevond. Wanneer je de tab toets gebruikte kon je wel redelijk zien wat er geselecteerd was, maar het was niet leesbaar wat er stond.
 
-Hier een omschrijving van hoe het opgelost kan worden (met indien nodig een afbeelding)
+Om dit probleem op te lossen zou je ervoor moeten zorgen dat de site goed werkt met een screenreader, of je zou de tekst veel groter moeten maken.
+
+
+#### Hemifield loss
+Toen ik deze bril op had kon ik alle elementen op de site wel goed zien, wel moest je je hoofd meer draaien om de content te zien die dichter op de randen stond.
+
+Hiervoor was niet echt een oplossing nodig.
+ 
+ 
+#### Low contrast
+Met de low contrast bril had ik dezelfde bevindingen als bij de peripheral field loss bril. Het werd erg lastig om de kleine grijze tekst te lezen en bij de tour pagina werd het bijna onmogelijk om te de zaalnamen te kunnen zien.
+
+Naast het aanpassen van de kleur blijkt bij deze bril het ook een goed idee om de fontsize wat groter te maken.
 
 </details>
 
