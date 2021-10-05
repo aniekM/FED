@@ -14,23 +14,24 @@
   --headerColor: #FFFDFC;
 }
 
-  /*********/
- /*  HOME */
-/*********/
+  /**********/
+ /* HEADER */
+/**********/
 
-body#home{
-  width: 100vw;
-  background-image: url('../images/headerbg.jpeg');
-  background-repeat: no-repeat;
-  background-color: var(--bgColor);
-  font-family: Marion;
-  color: var(--mainColor);
-  overflow-x: hidden;
-  position: relative;
+header{
+  /*display: flex;
+  flex-direction: row;*/
+  position: fixed;
 }
+
   /********/
  /* MENU */
 /********/
+
+button{
+  background:none;
+  border:none;
+}
 
 .hamburger{
   width: 40px;
@@ -77,6 +78,23 @@ header nav ul.oop{
 .hamburger.open::after{
   transform: rotate(-45deg) translate(30px, 30px);
 }
+  /*********/
+ /*  HOME */
+/*********/
+
+body#home{
+  width: 100vw;
+  background-image: url('../images/headerbg.jpeg');
+  background-repeat: no-repeat;
+  background-color: var(--bgColor);
+  font-family: Marion;
+  color: var(--mainColor);
+  overflow-x: hidden;
+  position: relative;
+}
+
+
+/************/
 
 #home section ul p{
   color: var(--accentText);
@@ -95,7 +113,8 @@ header nav ul.oop{
   justify-content: center;
   align-items: center;
   flex-direction: column;
-
+  /*position: absolute;
+  top: 20em;*/
 }
 #home .top img{
   max-width: 80%;
@@ -112,7 +131,7 @@ header nav ul.oop{
   text-decoration: none;
 }
 
-#home ul{
+#home ul a{
   display: flex;
   list-style:none;
   width: 100%;
@@ -130,6 +149,7 @@ header nav ul.oop{
   width: 100%;
   flex-direction: row;
   flex-wrap: wrap;
+
 }
 #home li a { 
   width: 40%;
@@ -262,11 +282,16 @@ body#tour{
     display: flex;
     flex-direction: column;
   }
-  #home .top{
+  #home section.top{
     display: flex;
     flex-direction: row;
     justify-content: space-evenly;
     flex-wrap: nowrap;
   }
-
+  #home .hamburger{
+    display: none;
+  }
+  #home header nav ul{
+    opacity: 1;
+  }
 }
