@@ -113,7 +113,7 @@ Op mijn vragen:
 <summary>uitwerken voor 2e voortgang</summary>
 
 ### Stand van zaken
-hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
+Deze week heb ik niet heel veel lastige dingen aangepast in de CSS en ben ik vooral bezig geweest met het opzetten van de tweede pagina.
 
 
 ### Agenda voor meeting
@@ -129,10 +129,8 @@ samen met je groepje opstellen
 ### Verslag van meeting
 hier na afloop snel de uitkomsten van de meeting vastleggen
 
-- punt 1
-- punt 2
-- nog een punt
-- ...
+- Dit maakt alleen uit als een screenreader gebruikt wordt en is vooral persoonlijke keuze.
+- Ja dit mag.
 
 </details>
 
@@ -153,7 +151,7 @@ Lijst met je bevindingen die in de test naar voren kwamen:
 #### Screenreader
  Ten eerste vond ik een screenreader gebruiken erg irritant. Als je iets met je muis beweegt herhaalt de screenreader steeds waar je muis op staat. Ook is het irritant dat de screenreader alle semantische elementen opnoemt, tenzij je dit uitzet in instellingen. Ook sloeg de screenreader het icoontje van het hamburger menu over
  
- OPLOSSING
+ Het hamburger menu moet in plaats van in een div in een button geplaatst worden. Verder kan er niet veel veranderd worden aan wat de screenreader wel en niet voorleest, tenzij iemand dit selecteerd in de instellingen.
 
 
 #### Peripheral field loss
@@ -191,26 +189,24 @@ Naast het aanpassen van de kleur blijkt bij deze bril het ook een goed idee om d
 <summary>uitwerken voor 3e voortgang</summary>
 
 ### Stand van zaken
-hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
+Voor deze les ben ik bezig geweest met media queries. Op veel plekken ging het goed, maar bij de bovenste section werd de media querie genegeerd doordat ik het element fout had aangesproken.
 
 
 ### Agenda voor meeting
 samen met je groepje opstellen
 
-| student 1      | student 2          | student 3    | student 4        |
+| aniek      | yen          | salentino    | student 4        |
 | ---            | ---                | ---          | ---              |
-| dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-| en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
+| Hoe zorg ik dat het bovenste deel van de site naar 2 kolommen gaat ipv 1.  | <- ook             | en ik dit    | en dan ik dat    |
+| ... | dit als er tijd is | Hoe krijg ik het hamburger menu rechts? | dit wil ik zeker |
 | ...            | ...                | ...          | ...              |
 
 
 ### Verslag van meeting
 hier na afloop snel de uitkomsten van de meeting vastleggen
 
-- punt 1
-- punt 2
-- nog een punt
-- ...
+- De code klopte, maar het aanspreken ging fout. Dit moest aangepast worden naar "section.top".
+
 
 </details>
 
@@ -224,11 +220,15 @@ hier na afloop snel de uitkomsten van de meeting vastleggen
 <summary>uitwerken voor eindgesprek</summary>
 
 ### Stand van zaken
-hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
+In mijn code heb ik veel gebruik gemaakt van unordered lists, bij de styling heb ik geprobeerd om deze semantisch aan te spreken, maar toen raakte ik steeds in de wat met welk stukje voor welke lijst was. Dit heb ik uiteindelijk dus aangepast en elke section een class te geven waardoor het voor mij een stuk overzichtelijker werd. Ook heb ik een aantal keer gehad dat de CSS niet deed wat ik wilde, maar met de hulp van klasgenoten en door de inspector tool te gebruiken waren deze problemen makkelijk op te lossen.
+ 
+ Uiteindelijk heb ik ook besloten om de header van kleur te laten veranderen als hij naar beneden scrollt. Hiervoor had ik hulp gevraagd van de studentassistenten en die zeiden dat dit een behoorlijk complex iets was om te doen. Uiteindelijk is het mij redelijk gelukt. De elementen staan niet precies hou ik het zou willen maar de kleur veranderd wel en daar ben ik blij mee.
+ 
+ Mede door de nodige frustraties heb ik uiteindelijk toch een responsive site weten te maken waar ik behoorlijk blij mee ben.
 
 ### Screenshot(s)
 
-hier screenshot(s) van je eindresultaat
+
 
 </details>
 
