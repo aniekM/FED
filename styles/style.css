@@ -4,7 +4,7 @@
 }
 @font-face {
   font-family: Marion;
-  src: url(font/MarionRegular.ttf);
+  src: url('../font/MarionRegular.ttf');
 }
 
 :root {
