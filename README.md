@@ -23,7 +23,7 @@ Aniek Mulders
 blauw
 
 #### Je focus:
-surface plane
+responsive
  
 </details>
 
