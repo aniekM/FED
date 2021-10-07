@@ -45,7 +45,7 @@ homepagina
 
 #### Screenshot(s) van de tweede pagina (small screen):
 merchandise verkoop pagina 
-<img src="images/dodieMerchM.png" width="200px" alt="merchandise pagina dodie.co">
+<img src="images/toursc.jpeg" width="200px" alt="EU tour pagina dodie.co">
  
 </details>
 
