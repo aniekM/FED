@@ -42,6 +42,7 @@ h1{
   left: 0;
   right: 0;
   top: .5em;
+  text-transform: lowercase;
 }
 h1.scroll{
     background: var(--bgColor);
@@ -445,6 +446,10 @@ body#tour{
 
 #tour main{
   padding-top: 5em;
+}
+
+#tour a h1{
+  color: var(--mainColor);
 }
 
 #tour h2{
