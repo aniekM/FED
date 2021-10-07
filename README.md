@@ -228,7 +228,14 @@ In mijn code heb ik veel gebruik gemaakt van unordered lists, bij de styling heb
 
 ### Screenshot(s)
 
-
+<img src="images/sc/homeB.png" width="200px" alt="homepagina groot scherm">
+<img src="images/sc/homeS.png" width="100px" alt="homepagina klein scherm">
+ <img src="images/sc/merchB.png" width="200px" alt="merch pagina groot scherm">
+ <img src="images/sc/merchS.png" width="100px" alt="merch pagina klein scherm">
+ <img src="images/sc/videoB.png" width="200px" alt="video pagina klein scherm">
+ <img src="images/sc/tourB.png" width="200px" alt="tour pagina groot scherm">
+ <img src="images/sc/tourS.png" width="100px" alt="tour pagina klein scherm">
+ <img src="images/sc/menuS.png" width="100px" alt="menu klein scherm">
 
 </details>
 
@@ -241,10 +248,11 @@ In mijn code heb ik veel gebruik gemaakt van unordered lists, bij de styling heb
 <details open>
 <summary>continu bijhouden terwijl je werkt</summary>
 
-Nb. Wees specifiek ('css-tricks' als bron is bijv. niet specifiek genoeg).
 
-1. bron 1
-2. bron 2
-3. ...
+1. https://www.youtube.com/watch?v=Tdkuk9uDTfM&t=87s
+2. De opdracht uitwerkingen op codepen
+3. De huiswerkstof via DLO
+4. Klasgenoten
+5. Studentassistenten
 
 </details>
